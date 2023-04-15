@@ -1,1 +1,45 @@
+* {
+    box-sizing: border-box;
+}
 
+div section {
+    margin: 20px;
+    padding: 10px 20px 20px 20px;
+}
+
+.navbar-header {
+    padding: 20px;
+}
+
+#foodllc {
+    margin-bottom: 30px;
+    margin-top: -30px;
+}
+
+#menuchicken {
+    background-color: #e7d2c2;
+}
+
+#menubeef {
+    background-color: #e1c3b8;
+}
+
+#menusushi {
+    background-color: #c4cfb8;
+}
+
+#chicken {
+    background-color: #e7d2c2;
+}
+
+#beef {
+    background-color: #e1c3b8;
+}
+
+#sushi {
+    background-color: #c4cfb8;
+}
+
+#back {
+    text-align: right;
+}
